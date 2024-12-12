@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/00ca5994-4b05-4165-a731-6ef475202d06)
 - 👋 Hi, I’m Gayathri
 - 👀 I’m interested in Data Analyst/scientist 
 - 🌱 I’m currently learning Data Science
