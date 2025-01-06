@@ -1,4 +1,4 @@
-- 👋 Hi there, It's me  Gayathri
+- 👋 Hi there, this is  Gayathri
 - 👀 I’m interested in Data Analyst/scientist 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Visualization and learn along with data
